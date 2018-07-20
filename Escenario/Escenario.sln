@@ -1,24 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escenario.Plugins", "Escenario.Plugins.csproj", "{5A8F802D-5B14-AA91-0074-B88F39AED007}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escenario.Editor.Plugins", "Escenario.Editor.Plugins.csproj", "{DEAB5DC1-D815-5712-5786-D6D726F09C3A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5A8F802D-5B14-AA91-0074-B88F39AED007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5A8F802D-5B14-AA91-0074-B88F39AED007}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5A8F802D-5B14-AA91-0074-B88F39AED007}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5A8F802D-5B14-AA91-0074-B88F39AED007}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DEAB5DC1-D815-5712-5786-D6D726F09C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DEAB5DC1-D815-5712-5786-D6D726F09C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DEAB5DC1-D815-5712-5786-D6D726F09C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DEAB5DC1-D815-5712-5786-D6D726F09C3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
